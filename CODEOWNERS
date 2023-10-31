@@ -1,2 +1,4 @@
 # Default owners
 *  @orgs/test-permission
+
+file_for_a_few.txt @orgs/test-permission/team-personal @orgs/test-permission/team-reddit 
